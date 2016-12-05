@@ -1,0 +1,14 @@
+sips - 批量处理图片
+
+
+* 将当前目录下的所有 jpg 图片宽度缩小为 600 px, 高度自动按比例缩放 sips -Z 600 ./*.jpp
+*  
+* 指定高度 300px, 宽度 600px sips -z 300 600
+*  
+* 顺时针旋转 90 度 sips -r 90
+*  
+* 水平翻转 sips -f horizontal
+*  
+* 垂直翻转 sips -f vertical
+*  
+
